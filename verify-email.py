@@ -11,7 +11,7 @@ regex = "^[_a-z0-9-]+(\.[_a-z0-9-]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,4})$"
 
 
 while True:
-    email_input = input("Please enter the email address to verify:")
+    email_input = input("Please enter the email address to verify: \n")
     email = str(email_input)
 
     # Syntax check - Validate the email address to make sure it matchs the pattern
