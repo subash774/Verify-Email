@@ -1,2 +1,2 @@
 # VerifyEmail
-Verify that email address exists 
+Verify any given email address exists 
